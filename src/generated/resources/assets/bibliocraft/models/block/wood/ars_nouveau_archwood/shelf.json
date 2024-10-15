@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/shelf",
+  "textures": {
+    "texture": "ars_nouveau:block/archwood_planks"
+  }
+}

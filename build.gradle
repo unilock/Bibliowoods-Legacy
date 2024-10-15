@@ -1,0 +1,122 @@
+plugins {
+    id 'net.neoforged.moddev' version '1.0.20'
+}
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven { url 'https://maven.blamejared.com/' }
+    maven { url 'https://cursemaven.com' }
+}
+
+sourceSets.main.resources {
+    srcDir 'src/generated/resources'
+}
+
+dependencies {
+    compileOnly files("libs/bibliocraft-${mc_version}-${bc_version}-api.jar")
+    runtimeOnly files("libs/bibliocraft-${mc_version}-${bc_version}.jar")
+    compileOnly "mezz.jei:jei-${mc_version}-neoforge-api:${jei_version}"
+    runtimeOnly "mezz.jei:jei-${mc_version}-neoforge:${jei_version}"
+    // Allthemodium
+    implementation "curse.maven:allthemodium-364466:5756986"
+    // Ars Nouveau
+    implementation "curse.maven:ars-nouveau-401955:5721123"
+    implementation "curse.maven:curios-continuation-1037991:5811495"
+    implementation "curse.maven:geckolib-388172:5763144"
+    // Biomes O' Plenty
+    implementation "curse.maven:biomes-o-plenty-220318:5812716"
+    implementation "curse.maven:glitchcore-955399:5660740"
+    implementation "curse.maven:terrablender-neoforge-940057:5685546"
+    // Deeper and Darker
+    implementation "curse.maven:deeperdarker-659011:5698218"
+    // Eternal Starlight
+    implementation "curse.maven:eternal-starlight-1080592:5808529"
+    // Forbidden Arcanus
+    implementation "curse.maven:forbidden-arcanus-309858:5811744"
+    implementation "curse.maven:valhelsia-core-416935:5526890"
+    // Integrated Dynamics
+    implementation "curse.maven:integrated-dynamics-236307:5811466"
+    implementation "curse.maven:common-capabilities-247007:5809047"
+    implementation "curse.maven:cyclops-core-232758:5805373"
+    // Occultism
+    implementation "curse.maven:occultism-361026:5793616"
+    implementation "curse.maven:modonomicon-538392:5786073"
+    implementation "curse.maven:smartbrainlib-661293:5723837"
+    // Oh The Biomes We've Gone
+    implementation "curse.maven:oh-the-biomes-weve-gone-1070751:5792475"
+    implementation "curse.maven:corgilib-693313:5691275"
+    implementation "curse.maven:oh-the-trees-youll-grow-962544:5691181"
+    // Productive Trees
+    implementation "curse.maven:productivetrees-867074:5808362"
+    implementation "curse.maven:productivebees-377897:5806645"
+    // Regions Unexplored
+    implementation "curse.maven:regions-unexplored-659110:5579932"
+    // Silent Gear
+    implementation "curse.maven:silent-gear-297039:5801501"
+    implementation "curse.maven:silent-lib-242998:5730272"
+    // The Undergarden
+    implementation "curse.maven:the-undergarden-379849:5769852"
+}
+
+neoForge {
+    version = project.neo_version
+
+    mods {
+        "${mod_id}" {
+            sourceSet sourceSets.main
+        }
+    }
+
+    runs {
+        configureEach {
+            systemProperty 'forge.logging.console.level', 'debug'
+        }
+        client {
+            client()
+        }
+        data {
+            data()
+            mods = [neoForge.mods."${mod_id}"]
+            programArguments.addAll '--mod', "${mod_id}", '--all',
+                    '--output',        file('src/generated/resources/').getAbsolutePath(),
+                    '--existing',      file('src/main/resources/').getAbsolutePath(),
+                    '--existing-mod', 'bibliocraft',
+                    '--existing-mod', 'allthemodium',
+                    '--existing-mod', 'ars_nouveau'
+        }
+        server {
+            server()
+            programArgument '--nogui'
+        }
+    }
+}
+
+tasks.named('processResources', ProcessResources) {
+    var replaceProperties = [
+            mc_version       : mc_version,
+            mc_version_range : mc_version_range,
+            neo_version      : neo_version,
+            neo_version_range: neo_version_range,
+            bc_version       : bc_version,
+            bc_version_range : bc_version_range,
+            loader_version   : loader_version,
+            mod_id           : mod_id,
+            mod_version      : mod_version,
+            mod_name         : mod_name,
+            mod_authors      : mod_authors,
+            mod_credits      : mod_credits,
+            mod_logo         : mod_logo,
+            mod_description  : mod_description,
+            mod_license      : mod_license,
+    ]
+    inputs.properties replaceProperties
+    filesMatching('META-INF/neoforge.mods.toml') {
+        expand replaceProperties
+    }
+}
+
+jar {
+    archiveBaseName = mod_id
+    archiveVersion = "${mc_version}-${mod_version}"
+}
