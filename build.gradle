@@ -129,4 +129,5 @@ tasks.named('processResources', ProcessResources) {
 jar {
     archiveBaseName = mod_id
     archiveVersion = "${mc_version}-${mod_version}"
+    processResources.exclude('**/.cache/**')
 }
