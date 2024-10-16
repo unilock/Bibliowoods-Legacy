@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/label",
+  "textures": {
+    "texture": "biomesoplenty:block/palm_planks"
+  }
+}

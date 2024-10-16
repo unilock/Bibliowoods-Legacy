@@ -1,0 +1,31 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "regions_unexplored"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:seats",
+  "key": {
+    "R": {
+      "tag": "c:rods/wooden"
+    },
+    "S": {
+      "item": "regions_unexplored:pink_bioshroom_slab"
+    },
+    "W": {
+      "item": "minecraft:light_blue_wool"
+    }
+  },
+  "pattern": [
+    " W ",
+    " S ",
+    "RSR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:light_blue_regions_unexplored_pink_bioshroom_seat"
+  }
+}

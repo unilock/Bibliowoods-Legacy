@@ -1,0 +1,42 @@
+{
+  "all": {
+    "parent": "bibliocraft:block/template/table/all",
+    "textures": {
+      "texture": "forbidden_arcanus:block/edelwood_planks"
+    }
+  },
+  "curve": {
+    "parent": "bibliocraft:block/template/table/curve",
+    "textures": {
+      "texture": "forbidden_arcanus:block/edelwood_planks"
+    }
+  },
+  "loader": "bibliocraft:table",
+  "none": {
+    "parent": "bibliocraft:block/template/table/none",
+    "textures": {
+      "texture": "forbidden_arcanus:block/edelwood_planks"
+    }
+  },
+  "one": {
+    "parent": "bibliocraft:block/template/table/one",
+    "textures": {
+      "texture": "forbidden_arcanus:block/edelwood_planks"
+    }
+  },
+  "straight": {
+    "parent": "bibliocraft:block/template/table/straight",
+    "textures": {
+      "texture": "forbidden_arcanus:block/edelwood_planks"
+    }
+  },
+  "textures": {
+    "particle": "forbidden_arcanus:block/edelwood_planks"
+  },
+  "three": {
+    "parent": "bibliocraft:block/template/table/three",
+    "textures": {
+      "texture": "forbidden_arcanus:block/edelwood_planks"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "bibliocraft:block/template/seat/fancy_seat_back",
+  "textures": {
+    "color": "minecraft:block/gray_wool",
+    "texture": "regions_unexplored:block/blue_bioshroom_planks"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tall_seat_backs",
+  "key": {
+    "#": {
+      "item": "bibliocraft:black_biomesoplenty_empyreal_flat_seat_back"
+    },
+    "S": {
+      "item": "biomesoplenty:empyreal_slab"
+    }
+  },
+  "pattern": [
+    "S",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:black_biomesoplenty_empyreal_tall_seat_back"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "bibliocraft:block/template/display_case/closed",
+  "textures": {
+    "color": "minecraft:block/white_wool",
+    "texture": "integrateddynamics:block/menril_planks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/bookcase/bookcase",
+  "textures": {
+    "texture": "twilightforest:block/wood/planks_time_0"
+  }
+}

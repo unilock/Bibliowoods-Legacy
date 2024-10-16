@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tall_seat_backs",
+  "key": {
+    "#": {
+      "item": "bibliocraft:purple_biomesoplenty_pine_flat_seat_back"
+    },
+    "S": {
+      "item": "biomesoplenty:pine_slab"
+    }
+  },
+  "pattern": [
+    "S",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:purple_biomesoplenty_pine_tall_seat_back"
+  }
+}

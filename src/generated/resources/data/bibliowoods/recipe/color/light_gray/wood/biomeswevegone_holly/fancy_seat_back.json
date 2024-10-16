@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomeswevegone"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_seat_backs",
+  "key": {
+    "#": {
+      "item": "bibliocraft:light_gray_biomeswevegone_holly_flat_seat_back"
+    },
+    "S": {
+      "item": "biomeswevegone:holly_slab"
+    }
+  },
+  "pattern": [
+    "S#S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:light_gray_biomeswevegone_holly_fancy_seat_back"
+  }
+}

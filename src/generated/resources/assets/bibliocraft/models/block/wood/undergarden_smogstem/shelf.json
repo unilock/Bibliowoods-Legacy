@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/shelf",
+  "textures": {
+    "texture": "undergarden:block/smogstem_planks"
+  }
+}

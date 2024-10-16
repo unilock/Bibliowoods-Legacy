@@ -1,0 +1,42 @@
+{
+  "all": {
+    "parent": "bibliocraft:block/template/table/all",
+    "textures": {
+      "texture": "twilightforest:block/wood/planks_darkwood_0"
+    }
+  },
+  "curve": {
+    "parent": "bibliocraft:block/template/table/curve",
+    "textures": {
+      "texture": "twilightforest:block/wood/planks_darkwood_0"
+    }
+  },
+  "loader": "bibliocraft:table",
+  "none": {
+    "parent": "bibliocraft:block/template/table/none",
+    "textures": {
+      "texture": "twilightforest:block/wood/planks_darkwood_0"
+    }
+  },
+  "one": {
+    "parent": "bibliocraft:block/template/table/one",
+    "textures": {
+      "texture": "twilightforest:block/wood/planks_darkwood_0"
+    }
+  },
+  "straight": {
+    "parent": "bibliocraft:block/template/table/straight",
+    "textures": {
+      "texture": "twilightforest:block/wood/planks_darkwood_0"
+    }
+  },
+  "textures": {
+    "particle": "twilightforest:block/wood/planks_darkwood_0"
+  },
+  "three": {
+    "parent": "bibliocraft:block/template/table/three",
+    "textures": {
+      "texture": "twilightforest:block/wood/planks_darkwood_0"
+    }
+  }
+}

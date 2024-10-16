@@ -58,3 +58,4 @@ ehthumbs.db
 ehthumbs_vista.db
 gradle-app.setting
 !gradle-wrapper.jar
+/src/generated/resources/.cache/

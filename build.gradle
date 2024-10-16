@@ -28,13 +28,17 @@ dependencies {
     implementation "curse.maven:biomes-o-plenty-220318:5812716"
     implementation "curse.maven:glitchcore-955399:5660740"
     implementation "curse.maven:terrablender-neoforge-940057:5685546"
+    // Biomes We've Gone
+    implementation "curse.maven:oh-the-biomes-weve-gone-1070751:5792475"
+    implementation "curse.maven:corgilib-693313:5691275"
+    implementation "curse.maven:oh-the-trees-youll-grow-962544:5691181"
     // Deeper and Darker
     implementation "curse.maven:deeperdarker-659011:5698218"
-    // Eternal Starlight
-    implementation "curse.maven:eternal-starlight-1080592:5808529"
     // Forbidden Arcanus
     implementation "curse.maven:forbidden-arcanus-309858:5811744"
     implementation "curse.maven:valhelsia-core-416935:5526890"
+    // GregTech
+    implementation "curse.maven:gregtechceu-modern-890405:5812613"
     // Integrated Dynamics
     implementation "curse.maven:integrated-dynamics-236307:5811466"
     implementation "curse.maven:common-capabilities-247007:5809047"
@@ -43,19 +47,14 @@ dependencies {
     implementation "curse.maven:occultism-361026:5793616"
     implementation "curse.maven:modonomicon-538392:5786073"
     implementation "curse.maven:smartbrainlib-661293:5723837"
-    // Oh The Biomes We've Gone
-    implementation "curse.maven:oh-the-biomes-weve-gone-1070751:5792475"
-    implementation "curse.maven:corgilib-693313:5691275"
-    implementation "curse.maven:oh-the-trees-youll-grow-962544:5691181"
-    // Productive Trees
-    implementation "curse.maven:productivetrees-867074:5808362"
-    implementation "curse.maven:productivebees-377897:5806645"
     // Regions Unexplored
     implementation "curse.maven:regions-unexplored-659110:5579932"
     // Silent Gear
     implementation "curse.maven:silent-gear-297039:5801501"
     implementation "curse.maven:silent-lib-242998:5730272"
-    // The Undergarden
+    // Twilight Forest
+    implementation "curse.maven:the-twilight-forest-227639:5759335"
+    // Undergarden
     implementation "curse.maven:the-undergarden-379849:5769852"
 }
 
@@ -83,7 +82,18 @@ neoForge {
                     '--existing',      file('src/main/resources/').getAbsolutePath(),
                     '--existing-mod', 'bibliocraft',
                     '--existing-mod', 'allthemodium',
-                    '--existing-mod', 'ars_nouveau'
+                    '--existing-mod', 'ars_nouveau',
+                    '--existing-mod', 'biomesoplenty',
+                    '--existing-mod', 'biomeswevegone',
+                    '--existing-mod', 'deeperdarker',
+                    '--existing-mod', 'forbidden_arcanus',
+                    '--existing-mod', 'gtceu',
+                    '--existing-mod', 'integrateddynamics',
+                    '--existing-mod', 'occultism',
+                    '--existing-mod', 'regions_unexplored',
+                    '--existing-mod', 'silentgear',
+                    '--existing-mod', 'twilightforest',
+                    '--existing-mod', 'undergarden'
         }
         server {
             server()

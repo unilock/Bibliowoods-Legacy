@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/tool_rack",
+  "textures": {
+    "texture": "regions_unexplored:block/green_bioshroom_planks"
+  }
+}

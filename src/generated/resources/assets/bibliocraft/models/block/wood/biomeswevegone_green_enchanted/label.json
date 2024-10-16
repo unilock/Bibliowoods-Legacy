@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/label",
+  "textures": {
+    "texture": "biomeswevegone:block/green_enchanted/planks"
+  }
+}

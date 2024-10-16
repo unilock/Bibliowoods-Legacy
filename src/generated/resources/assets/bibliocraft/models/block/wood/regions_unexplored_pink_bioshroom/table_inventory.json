@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/table/none",
+  "textures": {
+    "texture": "regions_unexplored:block/pink_bioshroom_planks"
+  }
+}

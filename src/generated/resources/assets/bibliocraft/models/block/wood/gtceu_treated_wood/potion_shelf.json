@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/potion_shelf",
+  "textures": {
+    "texture": "gtceu:block/treated_wood_planks"
+  }
+}

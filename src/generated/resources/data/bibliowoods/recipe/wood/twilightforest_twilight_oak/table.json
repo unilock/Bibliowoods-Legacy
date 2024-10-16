@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "twilightforest"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tables",
+  "key": {
+    "P": {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    "S": {
+      "item": "twilightforest:twilight_oak_slab"
+    }
+  },
+  "pattern": [
+    "SSS",
+    " P ",
+    " P "
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:twilightforest_twilight_oak_table"
+  }
+}

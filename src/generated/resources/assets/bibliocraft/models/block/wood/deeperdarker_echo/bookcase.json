@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/bookcase/bookcase",
+  "textures": {
+    "texture": "deeperdarker:block/echo_planks"
+  }
+}

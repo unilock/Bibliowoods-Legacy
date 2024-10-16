@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "regions_unexplored"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tool_racks",
+  "key": {
+    "#": {
+      "tag": "c:ingots/iron"
+    },
+    "S": {
+      "item": "regions_unexplored:cypress_slab"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:regions_unexplored_cypress_tool_rack"
+  }
+}

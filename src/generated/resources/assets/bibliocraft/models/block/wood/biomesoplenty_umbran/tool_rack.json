@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/tool_rack",
+  "textures": {
+    "texture": "biomesoplenty:block/umbran_planks"
+  }
+}

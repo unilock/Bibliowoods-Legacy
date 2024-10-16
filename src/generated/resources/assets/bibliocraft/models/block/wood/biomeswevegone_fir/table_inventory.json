@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/table/none",
+  "textures": {
+    "texture": "biomeswevegone:block/fir/planks"
+  }
+}

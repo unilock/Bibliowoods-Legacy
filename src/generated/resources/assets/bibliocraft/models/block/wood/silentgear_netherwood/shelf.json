@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/shelf",
+  "textures": {
+    "texture": "silentgear:block/netherwood_planks"
+  }
+}
