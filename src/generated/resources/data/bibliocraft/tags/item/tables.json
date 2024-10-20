@@ -1,89 +1,344 @@
 {
   "values": [
-    "bibliocraft:allthemodium_ancient_table",
-    "bibliocraft:allthemodium_soul_table",
-    "bibliocraft:allthemodium_demonic_table",
-    "bibliocraft:ars_nouveau_archwood_table",
-    "bibliocraft:biomesoplenty_fir_table",
-    "bibliocraft:biomesoplenty_pine_table",
-    "bibliocraft:biomesoplenty_maple_table",
-    "bibliocraft:biomesoplenty_redwood_table",
-    "bibliocraft:biomesoplenty_mahogany_table",
-    "bibliocraft:biomesoplenty_jacaranda_table",
-    "bibliocraft:biomesoplenty_palm_table",
-    "bibliocraft:biomesoplenty_willow_table",
-    "bibliocraft:biomesoplenty_dead_table",
-    "bibliocraft:biomesoplenty_magic_table",
-    "bibliocraft:biomesoplenty_umbran_table",
-    "bibliocraft:biomesoplenty_hellbark_table",
-    "bibliocraft:biomesoplenty_empyreal_table",
-    "bibliocraft:deeperdarker_echo_table",
-    "bibliocraft:deeperdarker_bloom_table",
-    "bibliocraft:forbidden_arcanus_fungyss_table",
-    "bibliocraft:forbidden_arcanus_aurum_table",
-    "bibliocraft:forbidden_arcanus_edelwood_table",
-    "bibliocraft:gtceu_rubber_table",
-    "bibliocraft:gtceu_treated_wood_table",
-    "bibliocraft:integrateddynamics_menril_table",
-    "bibliocraft:occultism_otherplanks_table",
-    "bibliocraft:biomeswevegone_aspen_table",
-    "bibliocraft:biomeswevegone_baobab_table",
-    "bibliocraft:biomeswevegone_blue_enchanted_table",
-    "bibliocraft:biomeswevegone_cika_table",
-    "bibliocraft:biomeswevegone_cypress_table",
-    "bibliocraft:biomeswevegone_ebony_table",
-    "bibliocraft:biomeswevegone_fir_table",
-    "bibliocraft:biomeswevegone_florus_table",
-    "bibliocraft:biomeswevegone_green_enchanted_table",
-    "bibliocraft:biomeswevegone_holly_table",
-    "bibliocraft:biomeswevegone_ironwood_table",
-    "bibliocraft:biomeswevegone_jacaranda_table",
-    "bibliocraft:biomeswevegone_mahogany_table",
-    "bibliocraft:biomeswevegone_maple_table",
-    "bibliocraft:biomeswevegone_palm_table",
-    "bibliocraft:biomeswevegone_pine_table",
-    "bibliocraft:biomeswevegone_rainbow_eucalyptus_table",
-    "bibliocraft:biomeswevegone_redwood_table",
-    "bibliocraft:biomeswevegone_sakura_table",
-    "bibliocraft:biomeswevegone_skyris_table",
-    "bibliocraft:biomeswevegone_white_mangrove_table",
-    "bibliocraft:biomeswevegone_willow_table",
-    "bibliocraft:biomeswevegone_witch_hazel_table",
-    "bibliocraft:biomeswevegone_zelkova_table",
-    "bibliocraft:regions_unexplored_alpha_table",
-    "bibliocraft:regions_unexplored_baobab_table",
-    "bibliocraft:regions_unexplored_blackwood_table",
-    "bibliocraft:regions_unexplored_blue_bioshroom_table",
-    "bibliocraft:regions_unexplored_brimwood_table",
-    "bibliocraft:regions_unexplored_cobalt_table",
-    "bibliocraft:regions_unexplored_cypress_table",
-    "bibliocraft:regions_unexplored_dead_table",
-    "bibliocraft:regions_unexplored_eucalyptus_table",
-    "bibliocraft:regions_unexplored_green_bioshroom_table",
-    "bibliocraft:regions_unexplored_joshua_table",
-    "bibliocraft:regions_unexplored_kapok_table",
-    "bibliocraft:regions_unexplored_larch_table",
-    "bibliocraft:regions_unexplored_magnolia_table",
-    "bibliocraft:regions_unexplored_maple_table",
-    "bibliocraft:regions_unexplored_mauve_table",
-    "bibliocraft:regions_unexplored_palm_table",
-    "bibliocraft:regions_unexplored_pine_table",
-    "bibliocraft:regions_unexplored_pink_bioshroom_table",
-    "bibliocraft:regions_unexplored_redwood_table",
-    "bibliocraft:regions_unexplored_socotra_table",
-    "bibliocraft:regions_unexplored_willow_table",
-    "bibliocraft:regions_unexplored_yellow_bioshroom_table",
-    "bibliocraft:silentgear_netherwood_table",
-    "bibliocraft:twilightforest_twilight_oak_table",
-    "bibliocraft:twilightforest_canopy_table",
-    "bibliocraft:twilightforest_mangrove_table",
-    "bibliocraft:twilightforest_dark_table",
-    "bibliocraft:twilightforest_time_table",
-    "bibliocraft:twilightforest_transformation_table",
-    "bibliocraft:twilightforest_mining_table",
-    "bibliocraft:twilightforest_sorting_table",
-    "bibliocraft:undergarden_smogstem_table",
-    "bibliocraft:undergarden_wigglewood_table",
-    "bibliocraft:undergarden_grongle_table"
+    {
+      "id": "bibliocraft:allthemodium_ancient_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_soul_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_demonic_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ars_nouveau_archwood_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_fir_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_pine_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_maple_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_redwood_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_mahogany_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_jacaranda_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_palm_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_willow_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_dead_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_magic_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_umbran_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_hellbark_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_empyreal_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_aspen_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_baobab_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_blue_enchanted_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_cika_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_cypress_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_ebony_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_fir_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_florus_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_green_enchanted_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_holly_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_ironwood_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_jacaranda_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_mahogany_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_maple_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_palm_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_pine_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_rainbow_eucalyptus_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_redwood_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_sakura_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_skyris_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_white_mangrove_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_willow_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_witch_hazel_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_zelkova_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deeperdarker_echo_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deeperdarker_bloom_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_fungyss_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_aurum_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_edelwood_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gtceu_rubber_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gtceu_treated_wood_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:integrateddynamics_menril_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:occultism_otherplanks_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_alpha_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_baobab_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_blackwood_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_blue_bioshroom_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_brimwood_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_cobalt_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_cypress_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_dead_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_eucalyptus_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_green_bioshroom_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_joshua_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_kapok_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_larch_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_magnolia_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_maple_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_mauve_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_palm_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_pine_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_pink_bioshroom_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_redwood_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_socotra_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_willow_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_yellow_bioshroom_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:silentgear_netherwood_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_twilight_oak_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_canopy_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_mangrove_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_dark_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_time_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_transformation_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_mining_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_sorting_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_smogstem_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_wigglewood_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_grongle_table",
+      "required": false
+    }
   ]
 }
