@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/fancy_crafter",
+  "textures": {
+    "texture": "ars_nouveau:block/archwood_planks"
+  }
+}

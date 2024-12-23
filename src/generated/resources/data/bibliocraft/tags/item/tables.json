@@ -149,6 +149,10 @@
       "required": false
     },
     {
+      "id": "bibliocraft:biomeswevegone_spirit_table",
+      "required": false
+    },
+    {
       "id": "bibliocraft:biomeswevegone_white_mangrove_table",
       "required": false
     },

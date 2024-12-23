@@ -1,0 +1,40 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ars_nouveau"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_crafters",
+  "key": {
+    "C": {
+      "item": "minecraft:crafter"
+    },
+    "F": {
+      "tag": "c:feathers"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "I": {
+      "tag": "c:dyes/black"
+    },
+    "P": {
+      "item": "ars_nouveau:archwood_planks"
+    },
+    "T": {
+      "tag": "c:player_workstations/crafting_tables"
+    }
+  },
+  "pattern": [
+    "ITF",
+    "PGP",
+    "PCP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:ars_nouveau_archwood_fancy_crafter"
+  }
+}

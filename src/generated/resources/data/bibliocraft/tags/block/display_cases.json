@@ -4737,6 +4737,134 @@
       "required": false
     },
     {
+      "id": "bibliocraft:white_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_biomeswevegone_spirit_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_biomeswevegone_spirit_wall_display_case",
+      "required": false
+    },
+    {
       "id": "bibliocraft:white_biomeswevegone_white_mangrove_display_case",
       "required": false
     },

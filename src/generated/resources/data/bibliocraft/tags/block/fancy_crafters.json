@@ -1,0 +1,348 @@
+{
+  "values": [
+    {
+      "id": "bibliocraft:allthemodium_ancient_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_soul_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_demonic_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ars_nouveau_archwood_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_fir_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_pine_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_maple_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_redwood_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_mahogany_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_jacaranda_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_palm_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_willow_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_dead_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_magic_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_umbran_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_hellbark_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_empyreal_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_aspen_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_baobab_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_blue_enchanted_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_cika_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_cypress_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_ebony_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_fir_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_florus_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_green_enchanted_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_holly_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_ironwood_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_jacaranda_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_mahogany_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_maple_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_palm_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_pine_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_rainbow_eucalyptus_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_redwood_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_sakura_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_skyris_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_spirit_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_white_mangrove_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_willow_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_witch_hazel_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_zelkova_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deeperdarker_echo_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deeperdarker_bloom_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_fungyss_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_aurum_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_edelwood_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gtceu_rubber_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gtceu_treated_wood_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:integrateddynamics_menril_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:occultism_otherplanks_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_alpha_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_baobab_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_blackwood_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_blue_bioshroom_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_brimwood_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_cobalt_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_cypress_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_dead_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_eucalyptus_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_green_bioshroom_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_joshua_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_kapok_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_larch_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_magnolia_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_maple_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_mauve_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_palm_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_pine_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_pink_bioshroom_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_redwood_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_socotra_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_willow_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_yellow_bioshroom_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:silentgear_netherwood_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_twilight_oak_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_canopy_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_mangrove_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_dark_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_time_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_transformation_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_mining_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_sorting_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_smogstem_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_wigglewood_fancy_crafter",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_grongle_fancy_crafter",
+      "required": false
+    }
+  ]
+}

@@ -149,6 +149,10 @@
       "required": false
     },
     {
+      "id": "bibliocraft:biomeswevegone_spirit_fancy_armor_stand",
+      "required": false
+    },
+    {
       "id": "bibliocraft:biomeswevegone_white_mangrove_fancy_armor_stand",
       "required": false
     },
