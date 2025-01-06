@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "regions_unexplored"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "bibliocraft:grandfather_clock",
+  "ingredients": [
+    {
+      "item": "bibliocraft:regions_unexplored_cypress_fancy_clock"
+    },
+    {
+      "item": "bibliocraft:regions_unexplored_cypress_fancy_clock"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:regions_unexplored_cypress_grandfather_clock"
+  }
+}

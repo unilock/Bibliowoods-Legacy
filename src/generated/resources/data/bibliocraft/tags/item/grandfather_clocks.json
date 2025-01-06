@@ -1,0 +1,352 @@
+{
+  "values": [
+    {
+      "id": "bibliocraft:aether_skyroot_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_ancient_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_soul_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_demonic_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ars_nouveau_archwood_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_fir_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_pine_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_maple_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_redwood_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_mahogany_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_jacaranda_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_palm_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_willow_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_dead_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_magic_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_umbran_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_hellbark_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_empyreal_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_aspen_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_baobab_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_blue_enchanted_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_cika_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_cypress_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_ebony_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_fir_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_florus_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_green_enchanted_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_holly_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_ironwood_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_jacaranda_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_mahogany_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_maple_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_palm_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_pine_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_rainbow_eucalyptus_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_redwood_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_sakura_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_skyris_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_spirit_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_white_mangrove_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_willow_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_witch_hazel_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_zelkova_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deeperdarker_echo_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deeperdarker_bloom_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_fungyss_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_aurum_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_edelwood_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gtceu_rubber_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gtceu_treated_wood_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:integrateddynamics_menril_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:occultism_otherplanks_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_alpha_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_baobab_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_blackwood_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_blue_bioshroom_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_brimwood_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_cobalt_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_cypress_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_dead_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_eucalyptus_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_green_bioshroom_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_joshua_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_kapok_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_larch_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_magnolia_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_maple_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_mauve_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_palm_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_pine_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_pink_bioshroom_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_redwood_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_socotra_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_willow_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_yellow_bioshroom_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:silentgear_netherwood_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_twilight_oak_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_canopy_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_mangrove_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_dark_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_time_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_transformation_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_mining_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_sorting_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_smogstem_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_wigglewood_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_grongle_grandfather_clock",
+      "required": false
+    }
+  ]
+}

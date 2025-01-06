@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "id": "bibliocraft:aether_skyroot_potion_shelf",
+      "required": false
+    },
+    {
       "id": "bibliocraft:allthemodium_ancient_potion_shelf",
       "required": false
     },

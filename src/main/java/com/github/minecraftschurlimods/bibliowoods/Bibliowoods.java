@@ -1,5 +1,6 @@
 package com.github.minecraftschurlimods.bibliowoods;
 
+import com.github.minecraftschurlimods.bibliowoods.mods.AetherMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.AllthemodiumMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.ArsNouveauMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.BiomesOPlentyMod;
@@ -24,6 +25,7 @@ public final class Bibliowoods {
     public static final String MOD_ID = "bibliowoods";
 
     public Bibliowoods(IEventBus bus) {
+        addIfLoaded("aether",             bus, AetherMod::new);
         addIfLoaded("allthemodium",       bus, AllthemodiumMod::new);
         addIfLoaded("ars_nouveau",        bus, ArsNouveauMod::new);
         addIfLoaded("biomesoplenty",      bus, BiomesOPlentyMod::new);

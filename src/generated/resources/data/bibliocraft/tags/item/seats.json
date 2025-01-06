@@ -1,6 +1,70 @@
 {
   "values": [
     {
+      "id": "bibliocraft:white_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_aether_skyroot_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_aether_skyroot_seat",
+      "required": false
+    },
+    {
       "id": "bibliocraft:white_allthemodium_ancient_seat",
       "required": false
     },

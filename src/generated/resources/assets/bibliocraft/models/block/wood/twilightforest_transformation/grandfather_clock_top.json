@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/clock/grandfather_top",
+  "textures": {
+    "texture": "twilightforest:block/wood/planks_trans_0"
+  }
+}

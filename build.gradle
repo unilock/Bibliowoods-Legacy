@@ -19,20 +19,23 @@ dependencies {
     runtimeOnly "com.github.minecraftschurlimods:bibliocraft:${mc_version}-${bc_version}"
     compileOnly "mezz.jei:jei-${mc_version}-neoforge-api:${jei_version}"
     runtimeOnly "mezz.jei:jei-${mc_version}-neoforge:${jei_version}"
+    // Aether
+    implementation "curse.maven:aether-255308:6040708"
+    implementation "curse.maven:owo-lib-532610:5945693"
     // Allthemodium
-    implementation "curse.maven:allthemodium-364466:6011976"
+    implementation "curse.maven:allthemodium-364466:6047702"
     // Ars Nouveau
     implementation "curse.maven:ars-nouveau-401955:5995085"
     implementation "curse.maven:curios-continuation-1037991:5888964"
-    implementation "curse.maven:geckolib-388172:5874016"
+    implementation "curse.maven:geckolib-388172:6027599"
     // Biomes O' Plenty
     implementation "curse.maven:biomes-o-plenty-220318:5855568"
     implementation "curse.maven:glitchcore-955399:5660740"
-    implementation "curse.maven:terrablender-neoforge-940057:5969932"
+    implementation "curse.maven:terrablender-neoforge-940057:6054947"
     // Biomes We've Gone
-    implementation "curse.maven:oh-the-biomes-weve-gone-1070751:5932848"
+    implementation "curse.maven:oh-the-biomes-weve-gone-1070751:6029134"
     implementation "curse.maven:corgilib-693313:6002859"
-    implementation "curse.maven:oh-the-trees-youll-grow-962544:6001121"
+    implementation "curse.maven:oh-the-trees-youll-grow-962544:6026954"
     // Deeper and Darker
     implementation "curse.maven:deeperdarker-659011:5908863"
     // Forbidden Arcanus
@@ -41,18 +44,18 @@ dependencies {
     // GregTech
     implementation "curse.maven:gregtechceu-modern-890405:5812613"
     // Integrated Dynamics
-    implementation "curse.maven:integrated-dynamics-236307:6016466"
-    implementation "curse.maven:common-capabilities-247007:6012639"
-    implementation "curse.maven:cyclops-core-232758:6010773"
+    implementation "curse.maven:integrated-dynamics-236307:6059588"
+    implementation "curse.maven:common-capabilities-247007:6059616"
+    implementation "curse.maven:cyclops-core-232758:6059640"
     // Occultism
-    implementation "curse.maven:occultism-361026:6015689"
-    implementation "curse.maven:modonomicon-538392:5959334"
-    implementation "curse.maven:smartbrainlib-661293:5681593"
+    implementation "curse.maven:occultism-361026:6059439"
+    implementation "curse.maven:modonomicon-538392:6039210"
+    implementation "curse.maven:smartbrainlib-661293:6035663"
     // Regions Unexplored
     implementation "curse.maven:regions-unexplored-659110:5579932"
     // Silent Gear
     implementation "curse.maven:silent-gear-297039:6008785"
-    implementation "curse.maven:silent-lib-242998:5730272"
+    implementation "curse.maven:silent-lib-242998:6040692"
     // Twilight Forest
     implementation "curse.maven:the-twilight-forest-227639:5983260"
     // Undergarden
@@ -82,6 +85,7 @@ neoForge {
                     '--output',       file('src/generated/resources/').getAbsolutePath(),
                     '--existing',     file('src/main/resources/').getAbsolutePath(),
                     '--existing-mod', 'bibliocraft',
+                    '--existing-mod', 'aether',
                     '--existing-mod', 'allthemodium',
                     '--existing-mod', 'ars_nouveau',
                     '--existing-mod', 'biomesoplenty',

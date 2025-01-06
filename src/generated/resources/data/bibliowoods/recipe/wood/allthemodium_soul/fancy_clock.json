@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_clock",
+  "key": {
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "I": {
+      "tag": "c:ingots/copper"
+    },
+    "R": {
+      "tag": "c:rods/wooden"
+    },
+    "S": {
+      "item": "allthemodium:soul_wooden_slabs"
+    }
+  },
+  "pattern": [
+    "SCS",
+    "SRS",
+    "SIS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:allthemodium_soul_fancy_clock"
+  }
+}

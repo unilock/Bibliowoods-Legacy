@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "regions_unexplored"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_clock",
+  "key": {
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "I": {
+      "tag": "c:ingots/copper"
+    },
+    "R": {
+      "tag": "c:rods/wooden"
+    },
+    "S": {
+      "item": "regions_unexplored:cobalt_slab"
+    }
+  },
+  "pattern": [
+    "SCS",
+    "SRS",
+    "SIS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:regions_unexplored_cobalt_fancy_clock"
+  }
+}

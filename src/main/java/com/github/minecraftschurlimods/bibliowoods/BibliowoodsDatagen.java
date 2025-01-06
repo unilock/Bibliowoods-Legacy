@@ -36,6 +36,7 @@ public final class BibliowoodsDatagen {
             protected void addTags(HolderLookup.Provider provider) {}
         });
         BibliocraftDatagenHelper helper = BibliocraftApi.getDatagenHelper();
+        helper.addWoodTypesToGenerateByModid("aether");
         helper.addWoodTypesToGenerateByModid("allthemodium");
         helper.addWoodTypesToGenerateByModid("ars_nouveau");
         helper.addWoodTypesToGenerateByModid("biomesoplenty");

@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/clock/grandfather_bottom",
+  "textures": {
+    "texture": "regions_unexplored:block/blue_bioshroom_planks"
+  }
+}

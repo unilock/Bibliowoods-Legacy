@@ -1,6 +1,10 @@
 {
   "values": [
     {
+      "id": "bibliocraft:aether_skyroot_label",
+      "required": false
+    },
+    {
       "id": "bibliocraft:allthemodium_ancient_label",
       "required": false
     },
