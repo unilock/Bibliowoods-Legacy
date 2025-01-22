@@ -4,6 +4,7 @@ $RECYCLE.BIN/
 .idea/
 .idea_modules/
 build/
+libs/
 out/
 run/
 *.cab
