@@ -17,7 +17,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:air"
+          "name": "bibliocraft:twilightforest_mining_fancy_clock"
         }
       ],
       "rolls": 1.0

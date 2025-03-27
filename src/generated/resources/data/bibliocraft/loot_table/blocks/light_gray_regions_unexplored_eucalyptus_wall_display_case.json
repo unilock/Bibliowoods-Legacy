@@ -17,7 +17,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:air"
+          "name": "bibliocraft:light_gray_regions_unexplored_eucalyptus_display_case"
         }
       ],
       "rolls": 1.0

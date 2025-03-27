@@ -41,6 +41,7 @@ public final class BibliowoodsDatagen {
         helper.addWoodTypesToGenerateByModid("ars_nouveau");
         helper.addWoodTypesToGenerateByModid("biomesoplenty");
         helper.addWoodTypesToGenerateByModid("biomeswevegone");
+        helper.addWoodTypesToGenerateByModid("cobblemon");
         helper.addWoodTypesToGenerateByModid("deeperdarker");
         helper.addWoodTypesToGenerateByModid("forbidden_arcanus");
         helper.addWoodTypesToGenerateByModid("gtceu");

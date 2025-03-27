@@ -1,0 +1,708 @@
+{
+  "values": [
+    {
+      "id": "bibliocraft:aether_skyroot_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_skyroot_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_ancient_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_ancient_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_soul_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_soul_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_demonic_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_demonic_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ars_nouveau_archwood_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ars_nouveau_archwood_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_fir_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_fir_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_pine_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_pine_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_maple_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_maple_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_redwood_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_redwood_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_mahogany_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_mahogany_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_jacaranda_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_jacaranda_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_palm_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_palm_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_willow_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_willow_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_dead_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_dead_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_magic_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_magic_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_umbran_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_umbran_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_hellbark_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_hellbark_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_empyreal_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomesoplenty_empyreal_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_aspen_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_aspen_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_baobab_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_baobab_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_blue_enchanted_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_blue_enchanted_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_cika_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_cika_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_cypress_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_cypress_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_ebony_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_ebony_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_fir_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_fir_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_florus_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_florus_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_green_enchanted_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_green_enchanted_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_holly_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_holly_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_ironwood_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_ironwood_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_jacaranda_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_jacaranda_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_mahogany_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_mahogany_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_maple_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_maple_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_palm_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_palm_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_pine_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_pine_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_rainbow_eucalyptus_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_rainbow_eucalyptus_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_redwood_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_redwood_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_sakura_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_sakura_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_skyris_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_skyris_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_spirit_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_spirit_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_white_mangrove_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_white_mangrove_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_willow_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_willow_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_witch_hazel_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_witch_hazel_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_zelkova_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:biomeswevegone_zelkova_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cobblemon_apricorn_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cobblemon_apricorn_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deeperdarker_echo_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deeperdarker_echo_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deeperdarker_bloom_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deeperdarker_bloom_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_fungyss_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_fungyss_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_aurum_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_aurum_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_edelwood_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_edelwood_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gtceu_rubber_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gtceu_rubber_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gtceu_treated_wood_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gtceu_treated_wood_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:integrateddynamics_menril_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:integrateddynamics_menril_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:occultism_otherplanks_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:occultism_otherplanks_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_alpha_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_alpha_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_baobab_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_baobab_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_blackwood_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_blackwood_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_blue_bioshroom_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_blue_bioshroom_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_brimwood_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_brimwood_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_cobalt_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_cobalt_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_cypress_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_cypress_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_dead_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_dead_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_eucalyptus_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_eucalyptus_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_green_bioshroom_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_green_bioshroom_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_joshua_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_joshua_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_kapok_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_kapok_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_larch_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_larch_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_magnolia_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_magnolia_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_maple_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_maple_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_mauve_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_mauve_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_palm_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_palm_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_pine_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_pine_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_pink_bioshroom_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_pink_bioshroom_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_redwood_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_redwood_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_socotra_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_socotra_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_willow_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_willow_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_yellow_bioshroom_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:regions_unexplored_yellow_bioshroom_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:silentgear_netherwood_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:silentgear_netherwood_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_twilight_oak_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_twilight_oak_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_canopy_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_canopy_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_mangrove_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_mangrove_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_dark_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_dark_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_time_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_time_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_transformation_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_transformation_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_mining_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_mining_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_sorting_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:twilightforest_sorting_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_smogstem_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_smogstem_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_wigglewood_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_wigglewood_wall_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_grongle_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:undergarden_grongle_wall_fancy_sign",
+      "required": false
+    }
+  ]
+}

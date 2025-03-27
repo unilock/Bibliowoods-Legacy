@@ -173,6 +173,10 @@
       "required": false
     },
     {
+      "id": "bibliocraft:cobblemon_apricorn_shelf",
+      "required": false
+    },
+    {
       "id": "bibliocraft:deeperdarker_echo_shelf",
       "required": false
     },

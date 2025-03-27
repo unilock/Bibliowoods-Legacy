@@ -5505,6 +5505,134 @@
       "required": false
     },
     {
+      "id": "bibliocraft:white_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_cobblemon_apricorn_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_cobblemon_apricorn_wall_display_case",
+      "required": false
+    },
+    {
       "id": "bibliocraft:white_deeperdarker_echo_display_case",
       "required": false
     },

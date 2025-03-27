@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/fancy_sign/wall",
+  "textures": {
+    "texture": "forbidden_arcanus:block/edelwood_planks"
+  }
+}

@@ -4,6 +4,7 @@ import com.github.minecraftschurlimods.bibliowoods.mods.AetherMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.AllthemodiumMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.ArsNouveauMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.BiomesOPlentyMod;
+import com.github.minecraftschurlimods.bibliowoods.mods.CobblemonMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.DeeperAndDarkerMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.ForbiddenArcanusMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.GregTechMod;
@@ -30,6 +31,7 @@ public final class Bibliowoods {
         addIfLoaded("ars_nouveau",        bus, ArsNouveauMod::new);
         addIfLoaded("biomesoplenty",      bus, BiomesOPlentyMod::new);
         addIfLoaded("biomeswevegone",     bus, BiomesWeveGoneMod::new);
+        addIfLoaded("cobblemon",          bus, CobblemonMod::new);
         addIfLoaded("deeperdarker",       bus, DeeperAndDarkerMod::new);
         addIfLoaded("forbidden_arcanus",  bus, ForbiddenArcanusMod::new);
         addIfLoaded("gtceu",              bus, GregTechMod::new);

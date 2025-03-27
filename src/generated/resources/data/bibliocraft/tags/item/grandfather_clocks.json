@@ -173,6 +173,10 @@
       "required": false
     },
     {
+      "id": "bibliocraft:cobblemon_apricorn_grandfather_clock",
+      "required": false
+    },
+    {
       "id": "bibliocraft:deeperdarker_echo_grandfather_clock",
       "required": false
     },

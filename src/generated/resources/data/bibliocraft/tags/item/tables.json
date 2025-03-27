@@ -173,6 +173,10 @@
       "required": false
     },
     {
+      "id": "bibliocraft:cobblemon_apricorn_table",
+      "required": false
+    },
+    {
       "id": "bibliocraft:deeperdarker_echo_table",
       "required": false
     },

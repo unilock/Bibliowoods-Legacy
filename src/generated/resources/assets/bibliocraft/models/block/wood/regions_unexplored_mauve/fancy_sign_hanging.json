@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/fancy_sign/hanging",
+  "textures": {
+    "texture": "regions_unexplored:block/mauve_planks"
+  }
+}

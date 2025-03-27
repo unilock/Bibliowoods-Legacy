@@ -345,6 +345,14 @@
       "required": false
     },
     {
+      "id": "bibliocraft:cobblemon_apricorn_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cobblemon_apricorn_wall_fancy_clock",
+      "required": false
+    },
+    {
       "id": "bibliocraft:deeperdarker_echo_fancy_clock",
       "required": false
     },

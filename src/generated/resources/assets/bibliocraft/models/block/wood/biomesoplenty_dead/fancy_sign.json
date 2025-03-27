@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/fancy_sign/standing",
+  "textures": {
+    "texture": "biomesoplenty:block/dead_planks"
+  }
+}
