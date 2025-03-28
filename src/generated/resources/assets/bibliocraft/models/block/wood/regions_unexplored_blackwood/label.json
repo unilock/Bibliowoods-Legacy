@@ -1,6 +1,0 @@
-{
-  "parent": "bibliocraft:block/template/label",
-  "textures": {
-    "texture": "regions_unexplored:block/blackwood_planks"
-  }
-}

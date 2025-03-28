@@ -1,6 +1,0 @@
-{
-  "parent": "bibliocraft:block/template/potion_shelf",
-  "textures": {
-    "texture": "regions_unexplored:block/willow_planks"
-  }
-}

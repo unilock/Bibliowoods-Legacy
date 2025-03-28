@@ -39,15 +39,12 @@ public final class BibliowoodsDatagen {
         helper.addWoodTypesToGenerateByModid("aether");
         helper.addWoodTypesToGenerateByModid("allthemodium");
         helper.addWoodTypesToGenerateByModid("ars_nouveau");
-        helper.addWoodTypesToGenerateByModid("biomesoplenty");
-        helper.addWoodTypesToGenerateByModid("biomeswevegone");
         helper.addWoodTypesToGenerateByModid("cobblemon");
         helper.addWoodTypesToGenerateByModid("deeperdarker");
         helper.addWoodTypesToGenerateByModid("forbidden_arcanus");
         helper.addWoodTypesToGenerateByModid("gtceu");
         helper.addWoodTypesToGenerateByModid("integrateddynamics");
         helper.addWoodTypesToGenerateByModid("occultism");
-        helper.addWoodTypesToGenerateByModid("regions_unexplored");
         helper.addWoodTypesToGenerateByModid("silentgear");
         helper.addWoodTypesToGenerateByModid("twilightforest");
         helper.addWoodTypesToGenerateByModid("undergarden");

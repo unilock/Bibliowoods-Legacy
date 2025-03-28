@@ -32,14 +32,6 @@ dependencies {
     implementation "curse.maven:ars-nouveau-401955:6333245"
     implementation "curse.maven:curios-continuation-1037991:5888964"
     implementation "curse.maven:geckolib-388172:6304958"
-    // Biomes O' Plenty
-    implementation "curse.maven:biomes-o-plenty-220318:6152943"
-    implementation "curse.maven:glitchcore-955399:5660740"
-    implementation "curse.maven:terrablender-neoforge-940057:6054947"
-    // Biomes We've Gone
-    implementation "curse.maven:oh-the-biomes-weve-gone-1070751:6298837"
-    implementation "curse.maven:corgilib-693313:6002859"
-    implementation "curse.maven:oh-the-trees-youll-grow-962544:6314894"
     // Cobblemon
     implementation "curse.maven:cobblemon-687131:6125026"
     implementation "curse.maven:kotlin-for-forge-351264:5978393"
@@ -58,8 +50,6 @@ dependencies {
     implementation "curse.maven:occultism-361026:6355135"
     implementation "curse.maven:modonomicon-538392:6338537"
     implementation "curse.maven:smartbrainlib-661293:6101242"
-    // Regions Unexplored
-    implementation "curse.maven:regions-unexplored-659110:6273893"
     // Silent Gear
     implementation "curse.maven:silent-gear-297039:6333121"
     implementation "curse.maven:silent-lib-242998:6285150"
@@ -95,15 +85,12 @@ neoForge {
                     '--existing-mod', 'aether',
                     '--existing-mod', 'allthemodium',
                     '--existing-mod', 'ars_nouveau',
-                    '--existing-mod', 'biomesoplenty',
-                    '--existing-mod', 'biomeswevegone',
                     '--existing-mod', 'cobblemon',
                     '--existing-mod', 'deeperdarker',
                     '--existing-mod', 'forbidden_arcanus',
                     '--existing-mod', 'gtceu',
                     '--existing-mod', 'integrateddynamics',
                     '--existing-mod', 'occultism',
-                    '--existing-mod', 'regions_unexplored',
                     '--existing-mod', 'silentgear',
                     '--existing-mod', 'twilightforest',
                     '--existing-mod', 'undergarden'

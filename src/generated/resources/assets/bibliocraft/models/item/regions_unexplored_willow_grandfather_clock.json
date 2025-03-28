@@ -1,6 +1,0 @@
-{
-  "parent": "bibliocraft:block/template/clock/grandfather_inventory",
-  "textures": {
-    "texture": "regions_unexplored:block/willow_planks"
-  }
-}

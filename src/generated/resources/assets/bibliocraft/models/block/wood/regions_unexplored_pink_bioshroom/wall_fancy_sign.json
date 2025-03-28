@@ -1,6 +1,0 @@
-{
-  "parent": "bibliocraft:block/template/fancy_sign/wall",
-  "textures": {
-    "texture": "regions_unexplored:block/pink_bioshroom_planks"
-  }
-}

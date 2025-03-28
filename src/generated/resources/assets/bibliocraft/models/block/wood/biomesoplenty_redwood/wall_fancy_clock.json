@@ -1,6 +1,0 @@
-{
-  "parent": "bibliocraft:block/template/clock/wall_fancy",
-  "textures": {
-    "texture": "biomesoplenty:block/redwood_planks"
-  }
-}

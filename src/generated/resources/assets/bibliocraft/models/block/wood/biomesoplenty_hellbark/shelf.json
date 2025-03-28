@@ -1,6 +1,0 @@
-{
-  "parent": "bibliocraft:block/template/shelf",
-  "textures": {
-    "texture": "biomesoplenty:block/hellbark_planks"
-  }
-}

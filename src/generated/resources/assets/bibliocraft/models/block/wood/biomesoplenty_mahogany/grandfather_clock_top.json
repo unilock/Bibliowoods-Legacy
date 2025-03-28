@@ -1,6 +1,0 @@
-{
-  "parent": "bibliocraft:block/template/clock/grandfather_top",
-  "textures": {
-    "texture": "biomesoplenty:block/mahogany_planks"
-  }
-}
