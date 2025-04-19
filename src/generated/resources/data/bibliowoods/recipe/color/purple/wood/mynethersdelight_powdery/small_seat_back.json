@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mynethersdelight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:small_seat_backs",
+  "key": {
+    "S": {
+      "item": "mynethersdelight:powdery_slab"
+    },
+    "W": {
+      "item": "minecraft:purple_wool"
+    }
+  },
+  "pattern": [
+    "W",
+    "S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:purple_mynethersdelight_powdery_small_seat_back"
+  }
+}

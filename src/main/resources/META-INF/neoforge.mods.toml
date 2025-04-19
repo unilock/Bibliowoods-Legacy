@@ -57,7 +57,31 @@ ordering="AFTER"
 side="BOTH"
 
 [[dependencies.${mod_id}]]
+modId="deep_aether"
+type="optional"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
 modId="deeperdarker"
+type="optional"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="eternal_starlight"
+type="optional"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="expandeddelight"
+type="optional"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="extradelight"
 type="optional"
 ordering="AFTER"
 side="BOTH"
@@ -76,6 +100,12 @@ side="BOTH"
 
 [[dependencies.${mod_id}]]
 modId="integrateddynamics"
+type="optional"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="mynethersdelight"
 type="optional"
 ordering="AFTER"
 side="BOTH"
@@ -100,6 +130,12 @@ side="BOTH"
 
 [[dependencies.${mod_id}]]
 modId="undergarden"
+type="optional"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="vampirism"
 type="optional"
 ordering="AFTER"
 side="BOTH"

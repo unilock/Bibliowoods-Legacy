@@ -25,11 +25,67 @@
       "required": false
     },
     {
+      "id": "bibliocraft:deep_aether_roseroot_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_yagroot_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_cruderoot_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_conberry_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_sunroot_shelf",
+      "required": false
+    },
+    {
       "id": "bibliocraft:deeperdarker_echo_shelf",
       "required": false
     },
     {
       "id": "bibliocraft:deeperdarker_bloom_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_lunar_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_northland_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_starlight_mangrove_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_scarlet_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_torreya_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_jinglestem_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:expandeddelight_cinnamon_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:extradelight_cinnamon_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:extradelight_fruit_shelf",
       "required": false
     },
     {
@@ -54,6 +110,10 @@
     },
     {
       "id": "bibliocraft:integrateddynamics_menril_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:mynethersdelight_powdery_shelf",
       "required": false
     },
     {
@@ -106,6 +166,14 @@
     },
     {
       "id": "bibliocraft:undergarden_grongle_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:vampirism_dark_spruce_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:vampirism_cursed_spruce_shelf",
       "required": false
     }
   ]

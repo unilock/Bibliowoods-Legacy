@@ -385,6 +385,326 @@
       "required": false
     },
     {
+      "id": "bibliocraft:white_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_deep_aether_roseroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_deep_aether_yagroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_deep_aether_cruderoot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_deep_aether_conberry_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_deep_aether_sunroot_seat_back",
+      "required": false
+    },
+    {
       "id": "bibliocraft:white_deeperdarker_echo_seat_back",
       "required": false
     },
@@ -510,6 +830,582 @@
     },
     {
       "id": "bibliocraft:black_deeperdarker_bloom_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_eternal_starlight_lunar_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_eternal_starlight_northland_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_eternal_starlight_starlight_mangrove_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_eternal_starlight_scarlet_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_eternal_starlight_torreya_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_eternal_starlight_jinglestem_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_expandeddelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_extradelight_cinnamon_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_extradelight_fruit_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_extradelight_fruit_seat_back",
       "required": false
     },
     {
@@ -894,6 +1790,70 @@
     },
     {
       "id": "bibliocraft:black_integrateddynamics_menril_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_mynethersdelight_powdery_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_mynethersdelight_powdery_seat_back",
       "required": false
     },
     {
@@ -1726,6 +2686,134 @@
     },
     {
       "id": "bibliocraft:black_undergarden_grongle_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_vampirism_dark_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_vampirism_cursed_spruce_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_vampirism_cursed_spruce_seat_back",
       "required": false
     }
   ]

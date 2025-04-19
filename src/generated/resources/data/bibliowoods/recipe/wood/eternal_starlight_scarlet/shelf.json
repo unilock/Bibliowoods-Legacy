@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "eternal_starlight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:shelves",
+  "key": {
+    "P": {
+      "item": "eternal_starlight:scarlet_planks"
+    },
+    "S": {
+      "item": "eternal_starlight:scarlet_slab"
+    }
+  },
+  "pattern": [
+    "SSS",
+    " P ",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:eternal_starlight_scarlet_shelf"
+  }
+}

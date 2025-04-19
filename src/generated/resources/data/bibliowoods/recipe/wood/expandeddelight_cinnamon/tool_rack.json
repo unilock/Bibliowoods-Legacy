@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "expandeddelight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tool_racks",
+  "key": {
+    "#": {
+      "tag": "c:ingots/iron"
+    },
+    "S": {
+      "item": "expandeddelight:cinnamon_slab"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:expandeddelight_cinnamon_tool_rack"
+  }
+}

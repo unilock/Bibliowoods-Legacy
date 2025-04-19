@@ -1,0 +1,88 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "eternal_starlight"
+    }
+  ],
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "bibliocraft:green_eternal_starlight_lunar_seat_back",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "small"
+              }
+            }
+          ],
+          "name": "bibliocraft:green_eternal_starlight_lunar_small_seat_back"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "bibliocraft:green_eternal_starlight_lunar_seat_back",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "raised"
+              }
+            }
+          ],
+          "name": "bibliocraft:green_eternal_starlight_lunar_raised_seat_back"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "bibliocraft:green_eternal_starlight_lunar_seat_back",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "flat"
+              }
+            }
+          ],
+          "name": "bibliocraft:green_eternal_starlight_lunar_flat_seat_back"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "bibliocraft:green_eternal_starlight_lunar_seat_back",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "tall"
+              }
+            }
+          ],
+          "name": "bibliocraft:green_eternal_starlight_lunar_tall_seat_back"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "bibliocraft:green_eternal_starlight_lunar_seat_back",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "fancy"
+              }
+            }
+          ],
+          "name": "bibliocraft:green_eternal_starlight_lunar_fancy_seat_back"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "bibliocraft:blocks/green_eternal_starlight_lunar_seat_back"
+}

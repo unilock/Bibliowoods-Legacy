@@ -1,0 +1,42 @@
+{
+  "all": {
+    "parent": "bibliocraft:block/template/table/all",
+    "textures": {
+      "texture": "mynethersdelight:block/powdery_planks"
+    }
+  },
+  "curve": {
+    "parent": "bibliocraft:block/template/table/curve",
+    "textures": {
+      "texture": "mynethersdelight:block/powdery_planks"
+    }
+  },
+  "loader": "bibliocraft:table",
+  "none": {
+    "parent": "bibliocraft:block/template/table/none",
+    "textures": {
+      "texture": "mynethersdelight:block/powdery_planks"
+    }
+  },
+  "one": {
+    "parent": "bibliocraft:block/template/table/one",
+    "textures": {
+      "texture": "mynethersdelight:block/powdery_planks"
+    }
+  },
+  "straight": {
+    "parent": "bibliocraft:block/template/table/straight",
+    "textures": {
+      "texture": "mynethersdelight:block/powdery_planks"
+    }
+  },
+  "textures": {
+    "particle": "mynethersdelight:block/powdery_planks"
+  },
+  "three": {
+    "parent": "bibliocraft:block/template/table/three",
+    "textures": {
+      "texture": "mynethersdelight:block/powdery_planks"
+    }
+  }
+}

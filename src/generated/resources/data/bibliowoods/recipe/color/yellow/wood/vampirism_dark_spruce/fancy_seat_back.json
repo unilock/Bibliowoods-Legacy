@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "vampirism"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_seat_backs",
+  "key": {
+    "#": {
+      "item": "bibliocraft:yellow_vampirism_dark_spruce_flat_seat_back"
+    },
+    "S": {
+      "item": "vampirism:dark_spruce_slab"
+    }
+  },
+  "pattern": [
+    "S#S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:yellow_vampirism_dark_spruce_fancy_seat_back"
+  }
+}

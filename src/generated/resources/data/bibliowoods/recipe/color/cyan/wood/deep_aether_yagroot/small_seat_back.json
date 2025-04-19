@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "deep_aether"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:small_seat_backs",
+  "key": {
+    "S": {
+      "item": "deep_aether:yagroot_slab"
+    },
+    "W": {
+      "item": "minecraft:cyan_wool"
+    }
+  },
+  "pattern": [
+    "W",
+    "S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:cyan_deep_aether_yagroot_small_seat_back"
+  }
+}

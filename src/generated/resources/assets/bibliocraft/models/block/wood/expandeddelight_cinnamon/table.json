@@ -1,0 +1,42 @@
+{
+  "all": {
+    "parent": "bibliocraft:block/template/table/all",
+    "textures": {
+      "texture": "expandeddelight:block/cinnamon_planks"
+    }
+  },
+  "curve": {
+    "parent": "bibliocraft:block/template/table/curve",
+    "textures": {
+      "texture": "expandeddelight:block/cinnamon_planks"
+    }
+  },
+  "loader": "bibliocraft:table",
+  "none": {
+    "parent": "bibliocraft:block/template/table/none",
+    "textures": {
+      "texture": "expandeddelight:block/cinnamon_planks"
+    }
+  },
+  "one": {
+    "parent": "bibliocraft:block/template/table/one",
+    "textures": {
+      "texture": "expandeddelight:block/cinnamon_planks"
+    }
+  },
+  "straight": {
+    "parent": "bibliocraft:block/template/table/straight",
+    "textures": {
+      "texture": "expandeddelight:block/cinnamon_planks"
+    }
+  },
+  "textures": {
+    "particle": "expandeddelight:block/cinnamon_planks"
+  },
+  "three": {
+    "parent": "bibliocraft:block/template/table/three",
+    "textures": {
+      "texture": "expandeddelight:block/cinnamon_planks"
+    }
+  }
+}

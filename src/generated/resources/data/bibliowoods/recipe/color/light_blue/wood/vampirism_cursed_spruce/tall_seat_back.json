@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "vampirism"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tall_seat_backs",
+  "key": {
+    "#": {
+      "item": "bibliocraft:light_blue_vampirism_cursed_spruce_flat_seat_back"
+    },
+    "S": {
+      "item": "vampirism:cursed_spruce_slab"
+    }
+  },
+  "pattern": [
+    "S",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:light_blue_vampirism_cursed_spruce_tall_seat_back"
+  }
+}

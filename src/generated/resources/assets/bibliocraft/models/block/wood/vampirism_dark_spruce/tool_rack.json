@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/tool_rack",
+  "textures": {
+    "texture": "vampirism:block/dark_spruce_planks"
+  }
+}

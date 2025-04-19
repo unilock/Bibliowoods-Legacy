@@ -1,0 +1,7 @@
+{
+  "parent": "bibliocraft:block/template/seat/small_seat_back",
+  "textures": {
+    "color": "minecraft:block/light_gray_wool",
+    "texture": "eternal_starlight:block/starlight_mangrove_planks"
+  }
+}

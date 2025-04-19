@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "eternal_starlight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_seat_backs",
+  "key": {
+    "#": {
+      "item": "bibliocraft:black_eternal_starlight_northland_flat_seat_back"
+    },
+    "S": {
+      "item": "eternal_starlight:northland_slab"
+    }
+  },
+  "pattern": [
+    "S#S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:black_eternal_starlight_northland_fancy_seat_back"
+  }
+}

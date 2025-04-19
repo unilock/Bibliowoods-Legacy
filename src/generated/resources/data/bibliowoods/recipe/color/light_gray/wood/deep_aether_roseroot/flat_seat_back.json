@@ -1,0 +1,31 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "deep_aether"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:flat_seat_backs",
+  "key": {
+    "R": {
+      "tag": "c:rods/wooden"
+    },
+    "S": {
+      "item": "deep_aether:roseroot_slab"
+    },
+    "W": {
+      "item": "minecraft:light_gray_wool"
+    }
+  },
+  "pattern": [
+    "RWR",
+    "RSR",
+    "R R"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:light_gray_deep_aether_roseroot_flat_seat_back"
+  }
+}

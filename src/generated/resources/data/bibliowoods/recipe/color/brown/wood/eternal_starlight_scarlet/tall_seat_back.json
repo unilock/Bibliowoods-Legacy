@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "eternal_starlight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tall_seat_backs",
+  "key": {
+    "#": {
+      "item": "bibliocraft:brown_eternal_starlight_scarlet_flat_seat_back"
+    },
+    "S": {
+      "item": "eternal_starlight:scarlet_slab"
+    }
+  },
+  "pattern": [
+    "S",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:brown_eternal_starlight_scarlet_tall_seat_back"
+  }
+}

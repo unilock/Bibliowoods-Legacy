@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/label",
+  "textures": {
+    "texture": "deep_aether:block/sunroot_planks"
+  }
+}

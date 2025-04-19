@@ -1,0 +1,42 @@
+{
+  "all": {
+    "parent": "bibliocraft:block/template/table/all",
+    "textures": {
+      "texture": "eternal_starlight:block/lunar_planks"
+    }
+  },
+  "curve": {
+    "parent": "bibliocraft:block/template/table/curve",
+    "textures": {
+      "texture": "eternal_starlight:block/lunar_planks"
+    }
+  },
+  "loader": "bibliocraft:table",
+  "none": {
+    "parent": "bibliocraft:block/template/table/none",
+    "textures": {
+      "texture": "eternal_starlight:block/lunar_planks"
+    }
+  },
+  "one": {
+    "parent": "bibliocraft:block/template/table/one",
+    "textures": {
+      "texture": "eternal_starlight:block/lunar_planks"
+    }
+  },
+  "straight": {
+    "parent": "bibliocraft:block/template/table/straight",
+    "textures": {
+      "texture": "eternal_starlight:block/lunar_planks"
+    }
+  },
+  "textures": {
+    "particle": "eternal_starlight:block/lunar_planks"
+  },
+  "three": {
+    "parent": "bibliocraft:block/template/table/three",
+    "textures": {
+      "texture": "eternal_starlight:block/lunar_planks"
+    }
+  }
+}

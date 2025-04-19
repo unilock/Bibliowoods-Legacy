@@ -1,0 +1,42 @@
+{
+  "all": {
+    "parent": "bibliocraft:block/template/table/all",
+    "textures": {
+      "texture": "vampirism:block/dark_spruce_planks"
+    }
+  },
+  "curve": {
+    "parent": "bibliocraft:block/template/table/curve",
+    "textures": {
+      "texture": "vampirism:block/dark_spruce_planks"
+    }
+  },
+  "loader": "bibliocraft:table",
+  "none": {
+    "parent": "bibliocraft:block/template/table/none",
+    "textures": {
+      "texture": "vampirism:block/dark_spruce_planks"
+    }
+  },
+  "one": {
+    "parent": "bibliocraft:block/template/table/one",
+    "textures": {
+      "texture": "vampirism:block/dark_spruce_planks"
+    }
+  },
+  "straight": {
+    "parent": "bibliocraft:block/template/table/straight",
+    "textures": {
+      "texture": "vampirism:block/dark_spruce_planks"
+    }
+  },
+  "textures": {
+    "particle": "vampirism:block/dark_spruce_planks"
+  },
+  "three": {
+    "parent": "bibliocraft:block/template/table/three",
+    "textures": {
+      "texture": "vampirism:block/dark_spruce_planks"
+    }
+  }
+}

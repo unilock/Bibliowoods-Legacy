@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "deep_aether"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_seat_backs",
+  "key": {
+    "#": {
+      "item": "bibliocraft:pink_deep_aether_roseroot_flat_seat_back"
+    },
+    "S": {
+      "item": "deep_aether:roseroot_slab"
+    }
+  },
+  "pattern": [
+    "S#S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:pink_deep_aether_roseroot_fancy_seat_back"
+  }
+}

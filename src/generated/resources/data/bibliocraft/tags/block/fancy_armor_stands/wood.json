@@ -25,11 +25,67 @@
       "required": false
     },
     {
+      "id": "bibliocraft:deep_aether_roseroot_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_yagroot_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_cruderoot_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_conberry_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_sunroot_fancy_armor_stand",
+      "required": false
+    },
+    {
       "id": "bibliocraft:deeperdarker_echo_fancy_armor_stand",
       "required": false
     },
     {
       "id": "bibliocraft:deeperdarker_bloom_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_lunar_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_northland_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_starlight_mangrove_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_scarlet_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_torreya_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_jinglestem_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:expandeddelight_cinnamon_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:extradelight_cinnamon_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:extradelight_fruit_fancy_armor_stand",
       "required": false
     },
     {
@@ -54,6 +110,10 @@
     },
     {
       "id": "bibliocraft:integrateddynamics_menril_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:mynethersdelight_powdery_fancy_armor_stand",
       "required": false
     },
     {
@@ -106,6 +166,14 @@
     },
     {
       "id": "bibliocraft:undergarden_grongle_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:vampirism_dark_spruce_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:vampirism_cursed_spruce_fancy_armor_stand",
       "required": false
     }
   ]

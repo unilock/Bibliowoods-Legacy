@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "occupied=false,waterlogged=false": {
+      "model": "bibliocraft:block/color/gray/wood/deep_aether_roseroot/seat"
+    },
+    "occupied=false,waterlogged=true": {
+      "model": "bibliocraft:block/color/gray/wood/deep_aether_roseroot/seat"
+    },
+    "occupied=true,waterlogged=false": {
+      "model": "bibliocraft:block/color/gray/wood/deep_aether_roseroot/seat"
+    },
+    "occupied=true,waterlogged=true": {
+      "model": "bibliocraft:block/color/gray/wood/deep_aether_roseroot/seat"
+    }
+  }
+}

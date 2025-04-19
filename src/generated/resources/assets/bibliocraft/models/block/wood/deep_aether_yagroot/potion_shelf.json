@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/potion_shelf",
+  "textures": {
+    "texture": "deep_aether:block/yagroot_planks"
+  }
+}

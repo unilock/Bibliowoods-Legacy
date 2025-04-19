@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/table/none",
+  "textures": {
+    "texture": "eternal_starlight:block/starlight_mangrove_planks"
+  }
+}

@@ -49,6 +49,46 @@
       "required": false
     },
     {
+      "id": "bibliocraft:deep_aether_roseroot_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_roseroot_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_yagroot_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_yagroot_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_cruderoot_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_cruderoot_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_conberry_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_conberry_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_sunroot_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_sunroot_wall_fancy_clock",
+      "required": false
+    },
+    {
       "id": "bibliocraft:deeperdarker_echo_fancy_clock",
       "required": false
     },
@@ -62,6 +102,78 @@
     },
     {
       "id": "bibliocraft:deeperdarker_bloom_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_lunar_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_lunar_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_northland_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_northland_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_starlight_mangrove_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_starlight_mangrove_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_scarlet_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_scarlet_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_torreya_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_torreya_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_jinglestem_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_jinglestem_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:expandeddelight_cinnamon_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:expandeddelight_cinnamon_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:extradelight_cinnamon_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:extradelight_cinnamon_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:extradelight_fruit_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:extradelight_fruit_wall_fancy_clock",
       "required": false
     },
     {
@@ -110,6 +222,14 @@
     },
     {
       "id": "bibliocraft:integrateddynamics_menril_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:mynethersdelight_powdery_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:mynethersdelight_powdery_wall_fancy_clock",
       "required": false
     },
     {
@@ -214,6 +334,22 @@
     },
     {
       "id": "bibliocraft:undergarden_grongle_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:vampirism_dark_spruce_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:vampirism_dark_spruce_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:vampirism_cursed_spruce_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:vampirism_cursed_spruce_wall_fancy_clock",
       "required": false
     }
   ]

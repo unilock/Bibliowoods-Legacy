@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/table/none",
+  "textures": {
+    "texture": "vampirism:block/cursed_spruce_planks"
+  }
+}

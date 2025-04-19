@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "eternal_starlight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tool_racks",
+  "key": {
+    "#": {
+      "tag": "c:ingots/iron"
+    },
+    "S": {
+      "item": "eternal_starlight:lunar_slab"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:eternal_starlight_lunar_tool_rack"
+  }
+}

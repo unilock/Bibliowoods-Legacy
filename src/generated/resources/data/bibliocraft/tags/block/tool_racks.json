@@ -25,11 +25,67 @@
       "required": false
     },
     {
+      "id": "bibliocraft:deep_aether_roseroot_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_yagroot_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_cruderoot_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_conberry_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_sunroot_tool_rack",
+      "required": false
+    },
+    {
       "id": "bibliocraft:deeperdarker_echo_tool_rack",
       "required": false
     },
     {
       "id": "bibliocraft:deeperdarker_bloom_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_lunar_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_northland_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_starlight_mangrove_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_scarlet_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_torreya_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_jinglestem_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:expandeddelight_cinnamon_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:extradelight_cinnamon_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:extradelight_fruit_tool_rack",
       "required": false
     },
     {
@@ -54,6 +110,10 @@
     },
     {
       "id": "bibliocraft:integrateddynamics_menril_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:mynethersdelight_powdery_tool_rack",
       "required": false
     },
     {
@@ -106,6 +166,14 @@
     },
     {
       "id": "bibliocraft:undergarden_grongle_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:vampirism_dark_spruce_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:vampirism_cursed_spruce_tool_rack",
       "required": false
     }
   ]

@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/clock/fancy_inventory",
+  "textures": {
+    "texture": "extradelight:block/fruit_planks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/fancy_armor_stand/top",
+  "textures": {
+    "texture": "deep_aether:block/cruderoot_planks"
+  }
+}

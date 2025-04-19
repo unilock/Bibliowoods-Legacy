@@ -1,0 +1,7 @@
+{
+  "parent": "bibliocraft:block/template/display_case/open",
+  "textures": {
+    "color": "minecraft:block/light_gray_wool",
+    "texture": "vampirism:block/cursed_spruce_planks"
+  }
+}

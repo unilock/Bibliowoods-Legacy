@@ -25,11 +25,67 @@
       "required": false
     },
     {
+      "id": "bibliocraft:deep_aether_roseroot_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_yagroot_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_cruderoot_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_conberry_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:deep_aether_sunroot_table",
+      "required": false
+    },
+    {
       "id": "bibliocraft:deeperdarker_echo_table",
       "required": false
     },
     {
       "id": "bibliocraft:deeperdarker_bloom_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_lunar_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_northland_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_starlight_mangrove_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_scarlet_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_torreya_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:eternal_starlight_jinglestem_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:expandeddelight_cinnamon_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:extradelight_cinnamon_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:extradelight_fruit_table",
       "required": false
     },
     {
@@ -54,6 +110,10 @@
     },
     {
       "id": "bibliocraft:integrateddynamics_menril_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:mynethersdelight_powdery_table",
       "required": false
     },
     {
@@ -106,6 +166,14 @@
     },
     {
       "id": "bibliocraft:undergarden_grongle_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:vampirism_dark_spruce_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:vampirism_cursed_spruce_table",
       "required": false
     }
   ]

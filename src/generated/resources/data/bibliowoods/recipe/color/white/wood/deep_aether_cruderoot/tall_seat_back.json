@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "deep_aether"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tall_seat_backs",
+  "key": {
+    "#": {
+      "item": "bibliocraft:white_deep_aether_cruderoot_flat_seat_back"
+    },
+    "S": {
+      "item": "deep_aether:cruderoot_slab"
+    }
+  },
+  "pattern": [
+    "S",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:white_deep_aether_cruderoot_tall_seat_back"
+  }
+}

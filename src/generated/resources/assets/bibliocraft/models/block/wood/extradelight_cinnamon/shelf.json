@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/shelf",
+  "textures": {
+    "texture": "extradelight:block/cinnamon_planks"
+  }
+}
