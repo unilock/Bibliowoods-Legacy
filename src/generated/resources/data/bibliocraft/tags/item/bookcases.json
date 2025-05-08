@@ -21,6 +21,10 @@
       "required": false
     },
     {
+      "id": "bibliocraft:butchercraft_barn_wood_bookcase",
+      "required": false
+    },
+    {
       "id": "bibliocraft:cobblemon_apricorn_bookcase",
       "required": false
     },
@@ -174,6 +178,14 @@
     },
     {
       "id": "bibliocraft:vampirism_cursed_spruce_bookcase",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:werewolves_jacaranda_bookcase",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:werewolves_magic_bookcase",
       "required": false
     }
   ]

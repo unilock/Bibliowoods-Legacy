@@ -51,6 +51,12 @@ ordering="AFTER"
 side="BOTH"
 
 [[dependencies.${mod_id}]]
+modId="butchercraft"
+type="optional"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
 modId="cobblemon"
 type="optional"
 ordering="AFTER"
