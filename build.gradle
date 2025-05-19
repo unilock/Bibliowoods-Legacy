@@ -32,6 +32,8 @@ dependencies {
     implementation "curse.maven:ars-nouveau-401955:6407266"
     implementation "curse.maven:curios-309927:6401872"
     implementation "curse.maven:geckolib-388172:6304958"
+    // Butchercraft
+    implementation "curse.maven:butchercraft-265715:6058964"
     // Cobblemon
     implementation "curse.maven:cobblemon-687131:6125026"
     implementation "curse.maven:kotlin-for-forge-351264:5978393"
@@ -70,6 +72,8 @@ dependencies {
     implementation "curse.maven:the-undergarden-379849:5769852"
     // Vampirism
     implementation "curse.maven:vampirism-become-a-vampire-233029:6387585"
+    // Werewolves
+    implementation "curse.maven:werewolves-become-a-beast-417851:6164806"
 }
 
 neoForge {
@@ -98,6 +102,7 @@ neoForge {
                     '--existing-mod', 'aether',
                     '--existing-mod', 'allthemodium',
                     '--existing-mod', 'ars_nouveau',
+                    '--existing-mod', 'butchercraft',
                     '--existing-mod', 'cobblemon',
                     '--existing-mod', 'deep_aether',
                     '--existing-mod', 'deeperdarker',
@@ -112,7 +117,8 @@ neoForge {
                     '--existing-mod', 'silentgear',
                     '--existing-mod', 'twilightforest',
                     '--existing-mod', 'undergarden',
-                    '--existing-mod', 'vampirism'
+                    '--existing-mod', 'vampirism',
+                    '--existing-mod', 'werewolves'
         }
         server {
             server()

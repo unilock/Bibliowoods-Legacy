@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/fancy_armor_stand/top",
+  "textures": {
+    "texture": "werewolves:block/jacaranda_planks"
+  }
+}

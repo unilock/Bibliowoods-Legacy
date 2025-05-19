@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/clock/grandfather_inventory",
+  "textures": {
+    "texture": "butchercraft:block/barn_wood_block"
+  }
+}

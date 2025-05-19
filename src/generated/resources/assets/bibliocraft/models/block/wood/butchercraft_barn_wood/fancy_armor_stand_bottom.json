@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/fancy_armor_stand/bottom",
+  "textures": {
+    "texture": "butchercraft:block/barn_wood_block"
+  }
+}

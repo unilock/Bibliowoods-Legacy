@@ -21,6 +21,10 @@
       "required": false
     },
     {
+      "id": "bibliocraft:butchercraft_barn_wood_grandfather_clock",
+      "required": false
+    },
+    {
       "id": "bibliocraft:cobblemon_apricorn_grandfather_clock",
       "required": false
     },
@@ -174,6 +178,14 @@
     },
     {
       "id": "bibliocraft:vampirism_cursed_spruce_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:werewolves_jacaranda_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:werewolves_magic_grandfather_clock",
       "required": false
     }
   ]

@@ -39,6 +39,7 @@ public final class BibliowoodsDatagen {
         helper.addWoodTypesToGenerateByModid("aether");
         helper.addWoodTypesToGenerateByModid("allthemodium");
         helper.addWoodTypesToGenerateByModid("ars_nouveau");
+        helper.addWoodTypesToGenerateByModid("butchercraft");
         helper.addWoodTypesToGenerateByModid("cobblemon");
         helper.addWoodTypesToGenerateByModid("deep_aether");
         helper.addWoodTypesToGenerateByModid("deeperdarker");
@@ -54,6 +55,7 @@ public final class BibliowoodsDatagen {
         helper.addWoodTypesToGenerateByModid("twilightforest");
         helper.addWoodTypesToGenerateByModid("undergarden");
         helper.addWoodTypesToGenerateByModid("vampirism");
+        helper.addWoodTypesToGenerateByModid("werewolves");
         helper.generateAll(Bibliowoods.MOD_ID, event, language, blockTags, itemTags);
     }
 }

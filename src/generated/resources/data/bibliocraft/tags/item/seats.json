@@ -321,6 +321,70 @@
       "required": false
     },
     {
+      "id": "bibliocraft:white_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_butchercraft_barn_wood_seat",
+      "required": false
+    },
+    {
       "id": "bibliocraft:white_cobblemon_apricorn_seat",
       "required": false
     },
@@ -2814,6 +2878,134 @@
     },
     {
       "id": "bibliocraft:black_vampirism_cursed_spruce_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_werewolves_jacaranda_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_werewolves_magic_seat",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_werewolves_magic_seat",
       "required": false
     }
   ]
