@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/table/none",
+  "textures": {
+    "texture": "tropicraft:block/palm_planks"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "wwizardry"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tables",
+  "key": {
+    "P": {
+      "item": "wwizardry:mycha_planks"
+    },
+    "S": {
+      "item": "wwizardry:mycha_slab"
+    }
+  },
+  "pattern": [
+    "SSS",
+    " P ",
+    " P "
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:wwizardry_mycha_table"
+  }
+}

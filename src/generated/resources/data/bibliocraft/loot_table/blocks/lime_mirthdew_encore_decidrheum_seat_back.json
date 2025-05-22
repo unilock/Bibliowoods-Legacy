@@ -1,0 +1,88 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mirthdew_encore"
+    }
+  ],
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "bibliocraft:lime_mirthdew_encore_decidrheum_seat_back",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "small"
+              }
+            }
+          ],
+          "name": "bibliocraft:lime_mirthdew_encore_decidrheum_small_seat_back"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "bibliocraft:lime_mirthdew_encore_decidrheum_seat_back",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "raised"
+              }
+            }
+          ],
+          "name": "bibliocraft:lime_mirthdew_encore_decidrheum_raised_seat_back"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "bibliocraft:lime_mirthdew_encore_decidrheum_seat_back",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "flat"
+              }
+            }
+          ],
+          "name": "bibliocraft:lime_mirthdew_encore_decidrheum_flat_seat_back"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "bibliocraft:lime_mirthdew_encore_decidrheum_seat_back",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "tall"
+              }
+            }
+          ],
+          "name": "bibliocraft:lime_mirthdew_encore_decidrheum_tall_seat_back"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "bibliocraft:lime_mirthdew_encore_decidrheum_seat_back",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "fancy"
+              }
+            }
+          ],
+          "name": "bibliocraft:lime_mirthdew_encore_decidrheum_fancy_seat_back"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "bibliocraft:blocks/lime_mirthdew_encore_decidrheum_seat_back"
+}

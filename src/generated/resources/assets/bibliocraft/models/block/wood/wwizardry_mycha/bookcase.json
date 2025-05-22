@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/bookcase/bookcase",
+  "textures": {
+    "texture": "wwizardry:block/mycha_planks"
+  }
+}

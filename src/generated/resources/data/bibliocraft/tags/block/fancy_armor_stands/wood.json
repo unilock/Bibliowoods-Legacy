@@ -113,7 +113,39 @@
       "required": false
     },
     {
+      "id": "bibliocraft:hexerei_mahogany_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:hexerei_polished_mahogany_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:hexerei_willow_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:hexerei_polished_willow_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:hexerei_witch_hazel_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:hexerei_polished_witch_hazel_fancy_armor_stand",
+      "required": false
+    },
+    {
       "id": "bibliocraft:integrateddynamics_menril_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:mirthdew_encore_clinkera_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:mirthdew_encore_decidrheum_fancy_armor_stand",
       "required": false
     },
     {
@@ -125,7 +157,31 @@
       "required": false
     },
     {
+      "id": "bibliocraft:roots_wildwood_fancy_armor_stand",
+      "required": false
+    },
+    {
       "id": "bibliocraft:silentgear_netherwood_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:thaumon_greatwood_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:thaumon_silverwood_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mahogany_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mangrove_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_palm_fancy_armor_stand",
       "required": false
     },
     {
@@ -186,6 +242,26 @@
     },
     {
       "id": "bibliocraft:werewolves_magic_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:witchery_alder_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:witchery_hawthorn_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:witchery_rowan_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:wwizardry_denia_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:wwizardry_mycha_fancy_armor_stand",
       "required": false
     }
   ]

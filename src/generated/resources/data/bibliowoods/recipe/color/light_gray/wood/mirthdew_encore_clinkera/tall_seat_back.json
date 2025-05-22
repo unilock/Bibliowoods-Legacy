@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mirthdew_encore"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tall_seat_backs",
+  "key": {
+    "#": {
+      "item": "bibliocraft:light_gray_mirthdew_encore_clinkera_flat_seat_back"
+    },
+    "S": {
+      "item": "mirthdew_encore:clinkera_slab"
+    }
+  },
+  "pattern": [
+    "S",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:light_gray_mirthdew_encore_clinkera_tall_seat_back"
+  }
+}

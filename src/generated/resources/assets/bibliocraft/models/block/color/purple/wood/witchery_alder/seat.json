@@ -1,0 +1,7 @@
+{
+  "parent": "bibliocraft:block/template/seat/seat",
+  "textures": {
+    "color": "minecraft:block/purple_wool",
+    "texture": "witchery:block/alder_planks"
+  }
+}

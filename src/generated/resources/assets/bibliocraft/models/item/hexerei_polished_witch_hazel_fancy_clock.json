@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/clock/fancy_inventory",
+  "textures": {
+    "texture": "hexerei:block/polished_witch_hazel_planks"
+  }
+}

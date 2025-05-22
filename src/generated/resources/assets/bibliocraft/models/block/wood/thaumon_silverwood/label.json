@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/label",
+  "textures": {
+    "texture": "thaumon:block/silverwood_planks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/fancy_sign/wall",
+  "textures": {
+    "texture": "hexerei:block/polished_willow_planks"
+  }
+}

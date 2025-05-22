@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/clock/wall_fancy",
+  "textures": {
+    "texture": "mirthdew_encore:block/decidrheum_planks"
+  }
+}

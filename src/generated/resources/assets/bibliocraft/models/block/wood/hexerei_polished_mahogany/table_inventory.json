@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/table/none",
+  "textures": {
+    "texture": "hexerei:block/polished_mahogany_planks"
+  }
+}

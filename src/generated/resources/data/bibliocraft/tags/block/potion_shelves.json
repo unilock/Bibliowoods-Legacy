@@ -113,7 +113,39 @@
       "required": false
     },
     {
+      "id": "bibliocraft:hexerei_mahogany_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:hexerei_polished_mahogany_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:hexerei_willow_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:hexerei_polished_willow_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:hexerei_witch_hazel_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:hexerei_polished_witch_hazel_potion_shelf",
+      "required": false
+    },
+    {
       "id": "bibliocraft:integrateddynamics_menril_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:mirthdew_encore_clinkera_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:mirthdew_encore_decidrheum_potion_shelf",
       "required": false
     },
     {
@@ -125,7 +157,31 @@
       "required": false
     },
     {
+      "id": "bibliocraft:roots_wildwood_potion_shelf",
+      "required": false
+    },
+    {
       "id": "bibliocraft:silentgear_netherwood_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:thaumon_greatwood_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:thaumon_silverwood_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mahogany_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mangrove_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_palm_potion_shelf",
       "required": false
     },
     {
@@ -186,6 +242,26 @@
     },
     {
       "id": "bibliocraft:werewolves_magic_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:witchery_alder_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:witchery_hawthorn_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:witchery_rowan_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:wwizardry_denia_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:wwizardry_mycha_potion_shelf",
       "required": false
     }
   ]

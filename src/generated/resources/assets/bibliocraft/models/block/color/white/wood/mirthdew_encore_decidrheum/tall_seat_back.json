@@ -1,0 +1,7 @@
+{
+  "parent": "bibliocraft:block/template/seat/tall_seat_back",
+  "textures": {
+    "color": "minecraft:block/white_wool",
+    "texture": "mirthdew_encore:block/decidrheum_planks"
+  }
+}

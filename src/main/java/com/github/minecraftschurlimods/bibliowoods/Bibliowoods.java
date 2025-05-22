@@ -11,15 +11,23 @@ import com.github.minecraftschurlimods.bibliowoods.mods.EternalStarlightMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.ExpandedDelightMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.ExtraDelightMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.ForbiddenArcanusMod;
+import com.github.minecraftschurlimods.bibliowoods.mods.GarnishedMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.GregTechMod;
+import com.github.minecraftschurlimods.bibliowoods.mods.HexereiMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.IntegratedDynamicsMod;
+import com.github.minecraftschurlimods.bibliowoods.mods.MirthdewEncoreMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.MyNethersDelightMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.OccultismMod;
+import com.github.minecraftschurlimods.bibliowoods.mods.RootsMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.SilentGearMod;
+import com.github.minecraftschurlimods.bibliowoods.mods.ThaumonMod;
+import com.github.minecraftschurlimods.bibliowoods.mods.TropicraftMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.TwilightForestMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.UndergardenMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.VampirismMod;
+import com.github.minecraftschurlimods.bibliowoods.mods.WWizardryMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.WerewolvesMod;
+import com.github.minecraftschurlimods.bibliowoods.mods.WitcheryMod;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModList;
 import net.neoforged.fml.common.Mod;
@@ -42,15 +50,23 @@ public final class Bibliowoods {
         addIfLoaded("expandeddelight",   bus, ExpandedDelightMod::new);
         addIfLoaded("extradelight",      bus, ExtraDelightMod::new);
         addIfLoaded("forbidden_arcanus", bus, ForbiddenArcanusMod::new);
+        addIfLoaded("garnished",         bus, GarnishedMod::new);
         addIfLoaded("gtceu",             bus, GregTechMod::new);
+        addIfLoaded("hexerei",           bus, HexereiMod::new);
         addIfLoaded("integrateddynamics",bus, IntegratedDynamicsMod::new);
+        addIfLoaded("mirthdew_encore",   bus, MirthdewEncoreMod::new);
         addIfLoaded("mynethersdelight",  bus, MyNethersDelightMod::new);
         addIfLoaded("occultism",         bus, OccultismMod::new);
+        addIfLoaded("roots",             bus, RootsMod::new);
         addIfLoaded("silentgear",        bus, SilentGearMod::new);
+        addIfLoaded("thaumon",           bus, ThaumonMod::new);
+        addIfLoaded("tropicraft",        bus, TropicraftMod::new);
         addIfLoaded("twilightforest",    bus, TwilightForestMod::new);
         addIfLoaded("undergarden",       bus, UndergardenMod::new);
         addIfLoaded("vampirism",         bus, VampirismMod::new);
         addIfLoaded("werewolves",        bus, WerewolvesMod::new);
+        addIfLoaded("witchery",          bus, WitcheryMod::new);
+        addIfLoaded("wwizardry",         bus, WWizardryMod::new);
     }
 
     private void addIfLoaded(String modId, IEventBus bus, BiFunction<String, IEventBus, AbstractMod> modBuilder) {

@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "thaumon"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:shelves",
+  "key": {
+    "P": {
+      "item": "thaumon:silverwood_planks"
+    },
+    "S": {
+      "item": "thaumon:silverwood_slab"
+    }
+  },
+  "pattern": [
+    "SSS",
+    " P ",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:thaumon_silverwood_shelf"
+  }
+}

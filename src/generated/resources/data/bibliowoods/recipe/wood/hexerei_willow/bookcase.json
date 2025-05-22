@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexerei"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:bookcases",
+  "key": {
+    "P": {
+      "item": "hexerei:willow_planks"
+    },
+    "S": {
+      "item": "hexerei:willow_slab"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "PSP",
+    "PSP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bibliocraft:hexerei_willow_bookcase"
+  }
+}
