@@ -1,5 +1,5 @@
 plugins {
-    id 'net.neoforged.moddev' version '1.0.20'
+    id 'net.neoforged.moddev' version '2.0.88'
 }
 
 repositories {
@@ -87,14 +87,13 @@ neoForge {
 
     runs {
         configureEach {
-            systemProperty 'forge.logging.console.level', 'debug'
+            logLevel = org.slf4j.event.Level.DEBUG
         }
         client {
             client()
         }
         data {
             data()
-            mods = [neoForge.mods."${mod_id}"]
             programArguments.addAll '--mod', "${mod_id}", '--all',
                     '--output',       file('src/generated/resources/').getAbsolutePath(),
                     '--existing',     file('src/main/resources/').getAbsolutePath(),
